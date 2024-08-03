@@ -1,0 +1,244 @@
+<?xml version="1.0" ?>
+<svg height="1078.9099349975586" version="1.1" width="1264.849925994873" xmlns="http://www.w3.org/2000/svg" xmlns:ns0="http://www.w3.org/2000/svg">
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="396.83,600.91 1264.85,600.91 1264.85,587.91 409.83,587.91 "/>
+    <ns0:g class="Door Swing Beside" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="691.93,600.91 775.33,600.91 775.33,587.91 691.93,587.91 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="691.93,600.91 775.33,600.91 775.33,587.91 691.93,587.91 "/>
+      </ns0:g>
+      <ns0:g class="Panel Left Positive" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="691.93,600.91 775.33,600.91 775.33,587.91 691.93,587.91 "/>
+        </ns0:g>
+        <ns0:path d="M775.33,587.91 q0.00,-83.40 -83.40,-83.40 l0.00,83.40Z"/>
+      </ns0:g>
+    </ns0:g>
+    <ns0:g class="Door Swing Beside" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="947.64,600.91 1030.82,600.91 1030.82,587.91 947.64,587.91 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="947.64,600.91 1030.82,600.91 1030.82,587.91 947.64,587.91 "/>
+      </ns0:g>
+      <ns0:g class="Panel Left Positive" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="947.64,600.91 1030.82,600.91 1030.82,587.91 947.64,587.91 "/>
+        </ns0:g>
+        <ns0:path d="M1030.82,587.91 q0.00,-83.18 -83.18,-83.18 l0.00,83.18Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="396.83,600.91 396.83,179.74 409.83,179.74 409.83,587.91 "/>
+    <ns0:g class="Door Swing Beside" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="396.83,514.40 396.83,431.76 409.83,431.76 409.83,514.40 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="396.83,514.40 396.83,431.76 409.83,431.76 409.83,514.40 "/>
+      </ns0:g>
+      <ns0:g class="Panel Left Positive" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="396.83,514.40 396.83,431.76 409.83,431.76 409.83,514.40 "/>
+        </ns0:g>
+        <ns0:path d="M409.83,431.76 q82.64,0.00 82.64,82.64 l-82.64,0.00Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="409.83,179.74 409.83,69.98 396.83,69.98 396.83,179.74 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="53.55,191.36 53.55,69.98 68.55,69.98 68.55,191.36 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="165.76,987.66 165.76,810.37 157.76,818.37 157.76,987.66 "/>
+    <ns0:g class="Door Swing Beside" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="165.76,888.41 165.76,825.09 157.76,825.09 157.76,888.41 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="165.76,888.41 165.76,825.09 157.76,825.09 157.76,888.41 "/>
+      </ns0:g>
+      <ns0:g class="Panel Left Negative" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="165.76,888.41 165.76,825.09 157.76,825.09 157.76,888.41 "/>
+        </ns0:g>
+        <ns0:path d="M165.76,888.41 q63.32,0.00 63.32,-63.32 l-63.32,0.00Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="165.76,810.37 68.55,810.37 68.55,818.37 157.76,818.37 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="157.76,818.37 291.76,818.37 283.76,810.37 157.76,810.37 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="291.76,425.69 409.83,425.69 409.83,417.69 283.76,417.69 "/>
+    <ns0:g class="Door Swing Beside" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="307.58,425.69 390.55,425.69 390.55,417.69 307.58,417.69 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="307.58,425.69 390.55,425.69 390.55,417.69 307.58,417.69 "/>
+      </ns0:g>
+      <ns0:g class="Panel Right Positive" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="307.58,425.69 390.55,425.69 390.55,417.69 307.58,417.69 "/>
+        </ns0:g>
+        <ns0:path d="M307.58,417.69 q0.00,-82.97 82.97,-82.97 l0.00,82.97Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="53.55,667.46 283.76,667.46 291.76,659.46 68.55,659.46 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="291.76,818.37 291.76,659.46 283.76,667.46 283.76,810.37 "/>
+    <ns0:g class="Door Swing Beside" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="291.76,805.49 291.76,734.84 283.76,734.84 283.76,805.49 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="291.76,805.49 291.76,734.84 283.76,734.84 283.76,805.49 "/>
+      </ns0:g>
+      <ns0:g class="Panel Left Negative" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="291.76,805.49 291.76,734.84 283.76,734.84 283.76,805.49 "/>
+        </ns0:g>
+        <ns0:path d="M291.76,805.49 q70.65,0.00 70.65,-70.65 l-70.65,0.00Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="291.76,659.46 291.76,425.69 283.76,417.69 283.76,659.46 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="596.69,987.66 596.69,727.63 588.69,735.63 588.69,987.66 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="596.69,727.63 407.99,727.63 407.99,735.63 588.69,735.63 "/>
+    <ns0:g class="Door Swing Beside" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="533.99,727.63 472.95,727.63 472.95,735.63 533.99,735.63 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="533.99,727.63 472.95,727.63 472.95,735.63 533.99,735.63 "/>
+      </ns0:g>
+      <ns0:g class="Panel Right Negative" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="533.99,727.63 472.95,727.63 472.95,735.63 533.99,735.63 "/>
+        </ns0:g>
+        <ns0:path d="M472.95,727.63 q0.00,-61.04 61.04,-61.04 l0.00,61.04Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="668.77,600.91 668.77,179.74 660.77,179.74 660.77,600.91 "/>
+  </ns0:g>
+  <ns0:g class="Wall" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="924.82,600.91 924.82,179.74 916.82,179.74 916.82,600.91 "/>
+  </ns0:g>
+  <ns0:g class="Wall External" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="53.55,987.66 1264.85,987.66 1230.30,971.66 68.55,971.66 "/>
+    <ns0:g class="Door Swing Opposite" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="171.33,987.66 262.58,987.66 262.58,971.66 171.33,971.66 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="171.33,987.66 262.58,987.66 262.58,971.66 171.33,971.66 "/>
+      </ns0:g>
+      <ns0:g class="Panel Left Negative" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="171.33,987.66 262.58,987.66 262.58,971.66 171.33,971.66 "/>
+        </ns0:g>
+        <ns0:path d="M171.33,987.66 q0.00,91.25 91.25,91.25 l0.00,-91.25Z"/>
+      </ns0:g>
+      <ns0:g class="Panel Left Positive" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="171.33,987.66 262.58,987.66 262.58,971.66 171.33,971.66 "/>
+        </ns0:g>
+        <ns0:path d="M262.58,971.66 q0.00,-91.25 -91.25,-91.25 l0.00,91.25Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall External" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="1264.85,987.66 1264.85,179.74 1230.30,214.59 1230.30,971.66 "/>
+    <ns0:g class="Window Regular" fill="#f0f0ff" id="Window" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="1264.85,525.10 1264.85,273.35 1230.30,273.35 1230.30,525.10 "/>
+      <ns0:g class="Glass" id="Glass">
+        <ns0:polygon points="1264.85,525.10 1264.85,273.35 1230.30,273.35 1230.30,525.10 "/>
+      </ns0:g>
+      <ns0:g class="Panel" id="Panel">
+        <ns0:line x1="1247.5742051041177" x2="1247.5742051041177" y1="517.6013134325669" y2="280.85032871510566"/>
+        <ns0:line x1="1264.845854836076" x2="1230.3025553721595" y1="517.6013134325669" y2="517.6013134325669"/>
+        <ns0:line x1="1264.845854836076" x2="1230.3025553721595" y1="280.85032871510566" y2="280.85032871510566"/>
+      </ns0:g>
+    </ns0:g>
+    <ns0:g class="Window Regular" fill="#f0f0ff" id="Window" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="1264.85,873.74 1264.85,602.14 1230.30,602.14 1230.30,873.74 "/>
+      <ns0:g class="Glass" id="Glass">
+        <ns0:polygon points="1264.85,873.74 1264.85,602.14 1230.30,602.14 1230.30,873.74 "/>
+      </ns0:g>
+      <ns0:g class="Panel" id="Panel">
+        <ns0:line x1="1247.574205104118" x2="1247.574205104118" y1="866.2394406717412" y2="609.6440985058188"/>
+        <ns0:line x1="1264.8458548360761" x2="1230.3025553721598" y1="866.2394406717412" y2="866.2394406717412"/>
+        <ns0:line x1="1264.8458548360761" x2="1230.3025553721598" y1="609.6440985058188" y2="609.6440985058188"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall External" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="1264.85,179.74 396.83,179.74 396.83,214.59 1230.30,214.59 "/>
+    <ns0:g class="Window Regular" fill="#f0f0ff" id="Window" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="659.21,179.74 506.78,179.74 506.78,214.59 659.21,214.59 "/>
+      <ns0:g class="Glass" id="Glass">
+        <ns0:polygon points="659.21,179.74 506.78,179.74 506.78,214.59 659.21,214.59 "/>
+      </ns0:g>
+      <ns0:g class="Panel" id="Panel">
+        <ns0:line x1="651.7133762546855" x2="514.2795184499527" y1="197.16656951181173" y2="197.16656951181173"/>
+        <ns0:line x1="651.7133762546855" x2="651.7133762546855" y1="179.73848378639013" y2="214.59465523723333"/>
+        <ns0:line x1="514.2795184499525" x2="514.2795184499525" y1="179.73848378639013" y2="214.59465523723333"/>
+      </ns0:g>
+    </ns0:g>
+    <ns0:g class="Window Regular" fill="#f0f0ff" id="Window" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="830.52,179.74 670.45,179.74 670.45,214.59 830.52,214.59 "/>
+      <ns0:g class="Glass" id="Glass">
+        <ns0:polygon points="830.52,179.74 670.45,179.74 670.45,214.59 830.52,214.59 "/>
+      </ns0:g>
+      <ns0:g class="Panel" id="Panel">
+        <ns0:line x1="823.0159708901746" x2="677.94981260117" y1="197.16656951181173" y2="197.16656951181173"/>
+        <ns0:line x1="823.0159708901746" x2="823.0159708901746" y1="179.73848378639013" y2="214.59465523723333"/>
+        <ns0:line x1="677.94981260117" x2="677.94981260117" y1="179.73848378639013" y2="214.59465523723333"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall External" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="396.83,191.36 53.55,191.36 68.55,207.20 396.83,207.20 "/>
+    <ns0:g class="Window Regular" fill="#f0f0ff" id="Window" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="302.19,191.36 70.04,191.36 70.04,207.20 302.19,207.20 "/>
+      <ns0:g class="Glass" id="Glass">
+        <ns0:polygon points="302.19,191.36 70.04,191.36 70.04,207.20 302.19,207.20 "/>
+      </ns0:g>
+      <ns0:g class="Panel" id="Panel">
+        <ns0:line x1="294.69162959685053" x2="77.5427020862524" y1="199.28026309986467" y2="199.28026309986478"/>
+        <ns0:line x1="294.69162959685053" x2="294.69162959685053" y1="191.3637985206813" y2="207.19672767904805"/>
+        <ns0:line x1="77.5427020862524" x2="77.5427020862524" y1="191.36379852068143" y2="207.19672767904817"/>
+      </ns0:g>
+    </ns0:g>
+    <ns0:g class="Door Swing Opposite" fill="#ffffff" id="Door" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;">
+      <ns0:polygon points="390.39,191.36 307.70,191.36 307.70,207.20 390.39,207.20 "/>
+      <ns0:g class="Threshold" id="Threshold">
+        <ns0:polygon points="390.39,191.36 307.70,191.36 307.70,207.20 390.39,207.20 "/>
+      </ns0:g>
+      <ns0:g class="Panel Right Negative" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="390.39,191.36 307.70,191.36 307.70,207.20 390.39,207.20 "/>
+        </ns0:g>
+        <ns0:path d="M307.70,191.36 q0.00,-82.68 82.68,-82.68 l0.00,82.68Z"/>
+      </ns0:g>
+      <ns0:g class="Panel Left Positive" fill="none" id="Panel" style="">
+        <ns0:g class="PanelArea" fill="none" id="PanelArea" stroke="none" style="">
+          <ns0:polygon points="390.39,191.36 307.70,191.36 307.70,207.20 390.39,207.20 "/>
+        </ns0:g>
+        <ns0:path d="M307.70,207.20 q0.00,82.68 82.68,82.68 l0.00,-82.68Z"/>
+      </ns0:g>
+    </ns0:g>
+  </ns0:g>
+  <ns0:g class="Wall External" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="53.55,191.36 53.55,667.46 68.55,667.46 68.55,207.20 "/>
+  </ns0:g>
+  <ns0:g class="Wall External" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="53.55,667.46 53.55,810.37 95.82,810.37 95.82,667.46 "/>
+  </ns0:g>
+  <ns0:g class="Wall External" fill="none" id="Wall" stroke="#000000" style="fill: none; stroke-opacity: 1;stroke-width: 5;">
+    <ns0:polygon points="53.55,810.37 53.55,987.66 68.55,971.66 68.55,810.37 "/>
+  </ns0:g>
+</svg>

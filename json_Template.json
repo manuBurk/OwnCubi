@@ -1,0 +1,63 @@
+ {
+    "name": "unknown Simulation",
+    "Scenario": {
+        "charLength": 21.5,
+        "charDensity": 8,
+        "charVelocity": 1.34,
+        "startPersons": 100,
+        "randPersons": 1,
+        "maxTime": 100
+    },
+    "Fundamentaldiagramm": 5,
+    "Infection": {
+        "percentInfected": 0.05,
+        "criticalDistance": 0.5,
+        "infectionRate": 0.65,
+        "percentRemoved": 0.1,
+        "resistanceTime": 1,
+        "moveMode": 0
+    },
+    "Agents": 0,
+    "Measurementstations": [],
+    "Entrance": [],
+    "Exit": [],
+    "Attractors": [],
+    "SubdomainsFD": [],
+    "SubdomainsRhoInit": [],
+    "Refinement": {
+        "decompositionLevel": "medium",
+        "localRefinement": 0,
+        "localMarkMethod": 0,
+        "globalRefinement": 0
+    },
+    "Domainpolygon": {
+        "numberPoints": "PLACEHOLDER_NUMBER_POINTS",
+        "segmentPoints": [
+            "PLACEHOLDER_SEGMENT_POINTS"
+        ],
+        "numberSegments": "PLACEHOLDER_NUMBER_SEGMENTS",
+        "pointOrder": [
+            "PLACEHOLDER_POINT_ORDER"
+        ],
+        "numberHoles": 0,
+        "holes": []
+    },
+    "Grid": {},
+    "PolygonCorners": {
+        "corners": [
+            "PLACEHOLDER_CORNERS"
+        ],
+        "closed": "True"
+    },
+    "HoleCorners": [],
+    "BackgroundImagePosition": {
+        "name": "default",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1
+    }
+}
